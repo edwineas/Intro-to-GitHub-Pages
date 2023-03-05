@@ -1,7 +1,3 @@
----
-title: Welcome to my blog
----
-
 # Welcome to My GitHub Pages Site
 
 Hi there! My name is Edwin, and this is my GitHub Pages site. Here, you'll find information about me, my projects. 
